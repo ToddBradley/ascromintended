@@ -1,0 +1,4 @@
+baseURL = 'http://ascromintended.com/'
+languageCode = 'en-us'
+title = 'As Crom Intended'
+theme = 'basic'
